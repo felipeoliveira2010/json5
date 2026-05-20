@@ -1,0 +1,37 @@
+[
+        {"nome": "Felipe",
+        "idade": "15",
+        "altura": "1,80",
+        "cidade": "Foz do iguaçu",
+        "aniversário": "29/10/2010"
+         },
+
+          {"nome": "mateu",
+        "idade": "16",
+        "altura": "1,67",
+        "cidade": "Foz do iguaçu",
+        "aniversário": "14/03/2010"
+         },
+
+          {"nome": "Henrique",
+        "idade": "35",
+        "altura": "2,50",
+        "cidade": "Foz do iguaçu",
+        "aniversário": "01/06/1991"
+         },
+         
+         {"nome": "luis",
+        "idade": "06",
+        "altura": "0,67",
+        "cidade": "Foz do iguaçu",
+        "aniversário": "21/12/2020"
+         }, 
+         
+         {"nome": "Cauã",
+        "idade": "17",
+        "altura": "1,30",
+        "cidade": "Foz do iguaçu",
+        "aniversário": "30/01/2009"
+         }
+         
+]
